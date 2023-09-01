@@ -32,7 +32,12 @@ To find tutorial schedules and office hours, please refer to the [Calendar](http
 - Michelle Pang (m.pang@ubc.ca)
 
 **Teaching Assistants**:
-- TBA
+- Chen Liu (chenliu5@student.ubc.ca)
+- Mahsa Zarei (mzarei@chem.ubc.ca)
+- Miranda Chan (mc835@student.ubc.ca)
+- Vee Bahel (bvedant@cs.ubc.ca)
+- Wilson Tu (linshuan@student.ubc.ca)
+- Yeojun Han (yeojunh@student.ubc.ca)
 
 ## Registration
 
