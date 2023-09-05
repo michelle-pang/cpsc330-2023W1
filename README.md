@@ -8,11 +8,16 @@ This is the course homepage for CPSC 330: Applied Machine Learning at the Univer
 - [Varada Kolhatkar](kvarada@cs.ubc.ca) (Section 102: Tue Thu 11:00 to 12:30 West Mall Swing Space 221)
 
 ### Course co-ordinator
-- Michelle Pang (m.pang@ubc.ca)
+- Michelle Pang (cpsc330-admin@ubc.ca)
 
 ### TAs
-- TBA
-
+- Chen Liu (chenliu5@student.ubc.ca)
+- Justice Sefas (jsefas@cs.ubc.ca)
+- Mahsa Zarei (mzarei@chem.ubc.ca)
+- Miranda Chan (mc835@student.ubc.ca)
+- Vee Rajesh Bahel (bvedant@cs.ubc.ca)
+- Wilson Tu (linshuan@student.ubc.ca)
+- Yeojun Han (yeojunh@student.ubc.ca)
 
 ## License
 
